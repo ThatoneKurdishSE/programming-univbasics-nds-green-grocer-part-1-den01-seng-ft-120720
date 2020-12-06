@@ -25,5 +25,5 @@ new_cart<< new_cart_item
 end
 count +=1
 end
-return new_cart
+new_cart
 end
