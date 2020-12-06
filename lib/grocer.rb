@@ -18,7 +18,7 @@ else
 new_cart_item={
   :item=> cart[count][:item],
   :price=> cart[count][:price],
-  :clearance=> cart[coun][:clearance],
+  :clearance=> cart[count][:clearance],
   :count=>1
 }
 new_cart<< new_cart_item
